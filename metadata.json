@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA - Premium Kicks",
+  "description": "Engineered for performance. Built to win. Modern high-performance athletic footwear e-commerce featuring the Nexora Elite 1.0 signature line.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
